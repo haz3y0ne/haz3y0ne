@@ -14,7 +14,9 @@ Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 ![React](https://img.shields.io/badge/ui-React-61dafb?style=flat-square&logo=react)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
-![OS Juggler](https://img.shields.io/badge/os-Linux%20%7C%20Windows%20%7C%20macOS-informational?style=flat-square&logo=linux)
+![Pop!_OS](https://img.shields.io/badge/Linux-Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white)
+![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)
+![macOS Sequoia](https://img.shields.io/badge/macOS-Sequoia-000000?style=flat-square&logo=apple&logoColor=white)
 
 I work with **JavaScript**, **TypeScript**, and **React** — often in ways that spiral into component libraries, CLI tools, and overengineered screenshot utilities.  
 Sometimes I even finish them.
