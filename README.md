@@ -16,35 +16,7 @@ Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 
 ![Pop!_OS](https://img.shields.io/badge/Linux-Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white)
 ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)
-![macOS Sequoia](https://img.shields.io/badge/macOS-Sequoia-000000?style=flat-square&logo=apple&logoColor=white)
 
 ---
 
 I work with **JavaScript**, **TypeScript**, and **React** — often building tools, libraries, or workflows to simplify the repetitive. I lean toward creating things that are modular, reusable, and a little overengineered (in a good way).
-
-I'm not aiming for flashy. I'm aiming for useful, readable, and maintainable.
-
-Outside of development, I manage the logistics behind an e-commerce operation. Between that and software, I live at the intersection of automation, process, and practicality.  
-And yeah — I’ve seen things in Excel that most people wouldn’t believe.
-
----
-
-### On this GitHub you'll find:
-
-- Components and utilities I built to scratch a real itch  
-- Tools that reduce friction in workflows  
-- Experiments that taught me something  
-- Projects in progress, because good ideas take time
-
----
-
-🧠 Naming things is still the hardest part.  
-🖥️ Linux, Windows, macOS — because one platform is never enough for the edge cases I run into.
-
-<details>
-  <summary>📦 A few extras</summary>
-
-  - Built CLI tools before knowing what "flags" were  
-  - Invested more thought in folder structure than I’d like to admit  
-  - Has more half-finished projects than open tabs — and that’s saying something
-</details>
