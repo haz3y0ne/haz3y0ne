@@ -1,6 +1,6 @@
-# Hi, I'm Chris (but call me **haz3y**)
+# Hey, I'm Chris — but most people know me as **haz3y**
 
-Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
+Pronounced _"HAY-zee"_ `/ˈheɪ.zi/` — yes, like the weather.
 
 > I write code on purpose. Most of the time.
 
@@ -8,9 +8,9 @@ Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 ![Debug Therapist](https://img.shields.io/badge/role-debug%20therapist-critical?style=flat-square&logo=bugatti)
 ![Excel Guru](https://img.shields.io/badge/Excel-guru-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/code-JavaScript-yellow?style=flat-square&logo=javascript)
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
 ![React](https://img.shields.io/badge/ui-React-61dafb?style=flat-square&logo=react)
 ![VS Code](https://img.shields.io/badge/Editor-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
 
@@ -18,39 +18,36 @@ Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 ![Windows 11](https://img.shields.io/badge/Windows-11-0078D6?style=flat-square&logo=windows&logoColor=white)
 ![macOS Sequoia](https://img.shields.io/badge/macOS-Sequoia-000000?style=flat-square&logo=apple&logoColor=white)
 
-I work with **JavaScript**, **TypeScript**, and **React** — often in ways that spiral into component libraries, CLI tools, and overengineered screenshot utilities.  
-Sometimes I even finish them.
+---
 
-I'm a **hobbyist developer**, not chasing the corporate ladder — just building things because it's fun (_and because the alternative is meetings_).  
-You could say I prefer shipping over synergies.
+I mostly write JavaScript, TypeScript, and React — usually while convincing myself that I *need* to make a custom component library or write another CLI tool.
+
+Half of what I build starts with “Wouldn’t it be cool if...” and ends with a README that says “Still working on it.”
 
 ---
 
-By day, I manage warehouse logistics and keep an e-commerce distribution account from combusting.  
-Somewhere along the way, I became the local Excel oracle — probably because I once used a formula with more than three parentheses.  
-Now it's just part of the job description.
+By day, I run logistics and keep an e-comm warehouse from imploding.  
+By accident, I became the Excel guy. It started with one formula and now I have a reputation.
 
-By night, I’m a dad to a wildly curious 9-year-old who asks questions I have to Google.  
-We get along great.
+By night, I’m a dad to a curious 9-year-old who keeps me on my toes (and occasionally Googling answers).
 
 ---
 
-### What you'll find here:
+### Around here you’ll find:
 
-- ✨ Components, utilities, and over-thought ideas  
-- 🧪 Experiments that accidentally became features  
-- 📁 Projects that are absolutely still in progress, thank you for asking
+- Components that turned into projects  
+- Projects that turned into experiments  
+- Experiments that may or may not work in Firefox
 
 ---
 
-🧠 Writing code is easy. Naming things is the real boss fight.  
-🖥️ Linux, Windows, macOS — because I like having trust issues with all three.
+🧠 Naming things is still harder than writing the actual code.  
+🖥️ I triple-boot — because nothing builds character like debugging the same project on three OSes.
 
 <details>
-  <summary>📦 More about me (click to expand)</summary>
+  <summary>📦 Fun facts I didn’t know where else to put</summary>
 
-  - Built my first CLI tool to avoid copy-pasting ZIP codes.
-  - Spends longer naming projects than finishing them.
-  - Has a 9-year-old likely to contribute before I finish my backlog.
-
+  - First CLI tool was just to avoid copy/pasting ZIP codes  
+  - Has a backlog longer than his son’s Christmas list  
+  - Once spent 45 minutes naming a folder. No regrets.
 </details>
