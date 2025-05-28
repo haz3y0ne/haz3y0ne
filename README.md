@@ -1,8 +1,8 @@
-# Hey, I'm Chris — but most people know me as **haz3y**
+# Hey, I'm Chris — you can call me **haz3y**
 
-Pronounced _"HAY-zee"_ `/ˈheɪ.zi/` — yes, like the weather.
+Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 
-> I write code on purpose. Most of the time.
+> I write code with intent. Sometimes that intent turns into working software.
 
 ![Hobby Dev](https://img.shields.io/badge/hobbyist-dev-9cf?style=flat-square)
 ![Debug Therapist](https://img.shields.io/badge/role-debug%20therapist-critical?style=flat-square&logo=bugatti)
@@ -20,34 +20,31 @@ Pronounced _"HAY-zee"_ `/ˈheɪ.zi/` — yes, like the weather.
 
 ---
 
-I mostly write JavaScript, TypeScript, and React — usually while convincing myself that I *need* to make a custom component library or write another CLI tool.
+I work with **JavaScript**, **TypeScript**, and **React** — often building tools, libraries, or workflows to simplify the repetitive. I lean toward creating things that are modular, reusable, and a little overengineered (in a good way).
 
-Half of what I build starts with “Wouldn’t it be cool if...” and ends with a README that says “Still working on it.”
+I'm not aiming for flashy. I'm aiming for useful, readable, and maintainable.
 
----
-
-By day, I run logistics and keep an e-comm warehouse from imploding.  
-By accident, I became the Excel guy. It started with one formula and now I have a reputation.
-
-By night, I’m a dad to a curious 9-year-old who keeps me on my toes (and occasionally Googling answers).
+Outside of development, I manage the logistics behind an e-commerce operation. Between that and software, I live at the intersection of automation, process, and practicality.  
+And yeah — I’ve seen things in Excel that most people wouldn’t believe.
 
 ---
 
-### Around here you’ll find:
+### On this GitHub you'll find:
 
-- Components that turned into projects  
-- Projects that turned into experiments  
-- Experiments that may or may not work in Firefox
+- Components and utilities I built to scratch a real itch  
+- Tools that reduce friction in workflows  
+- Experiments that taught me something  
+- Projects in progress, because good ideas take time
 
 ---
 
-🧠 Naming things is still harder than writing the actual code.  
-🖥️ I triple-boot — because nothing builds character like debugging the same project on three OSes.
+🧠 Naming things is still the hardest part.  
+🖥️ Linux, Windows, macOS — because one platform is never enough for the edge cases I run into.
 
 <details>
-  <summary>📦 Fun facts I didn’t know where else to put</summary>
+  <summary>📦 A few extras</summary>
 
-  - First CLI tool was just to avoid copy/pasting ZIP codes  
-  - Has a backlog longer than his son’s Christmas list  
-  - Once spent 45 minutes naming a folder. No regrets.
+  - Built CLI tools before knowing what "flags" were  
+  - Invested more thought in folder structure than I’d like to admit  
+  - Has more half-finished projects than open tabs — and that’s saying something
 </details>
