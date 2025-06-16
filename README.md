@@ -2,8 +2,6 @@
 
 Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 
-> I write code with intent. Sometimes that intent turns into working software.
-
 ![Hobby Dev](https://img.shields.io/badge/hobbyist-dev-9cf?style=flat-square)
 ![Debug Therapist](https://img.shields.io/badge/role-debug%20therapist-critical?style=flat-square&logo=bugatti)
 ![Excel Guru](https://img.shields.io/badge/tool-Excel%20Guru-217346?style=flat-square&logo=microsoft-excel&logoColor=white)
@@ -16,7 +14,3 @@ Pronounced _"HAY-zee"_ `/ˈheɪ.zi/`
 
 ![platform-Pop!_OS](https://img.shields.io/badge/platform-Pop!_OS-48B9C7?style=flat-square&logo=popos&logoColor=white)
 ![platform-Windows 11](https://img.shields.io/badge/platform-Windows%2011-0078D6?style=flat-square&logo=windows&logoColor=white)
-
----
-
-I work with **JavaScript**, **TypeScript**, and **React** — often building tools, libraries, or workflows to simplify the repetitive. I lean toward creating things that are modular, reusable, and a little overengineered (in a good way).
